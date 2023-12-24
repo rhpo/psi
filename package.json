@@ -12,6 +12,8 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"devDependencies": {
+		"@capacitor/assets": "^3.0.1",
+		"@capacitor/cli": "^5.5.1",
 		"@sveltejs/adapter-auto": "^2.0.0",
 		"@sveltejs/kit": "^1.20.4",
 		"prettier": "^2.8.0",
@@ -21,5 +23,16 @@
 		"typescript": "^5.0.0",
 		"vite": "^4.4.2"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@capacitor/android": "^5.5.1",
+		"@capacitor/core": "^5.5.1",
+		"@capacitor/ios": "^5.5.1",
+		"@fortawesome/free-brands-svg-icons": "^6.4.2",
+		"@fortawesome/free-solid-svg-icons": "^6.4.2",
+		"@sveltejs/adapter-static": "^2.0.3",
+		"svelte-fa": "^3.0.4",
+		"sveltejs-tippy": "^3.0.0",
+		"vanilla-tilt-svelte": "^1.0.4"
+	}
 }
