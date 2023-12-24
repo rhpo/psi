@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
@@ -36,3 +37,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+=======
+# psi
+An Android/iOS cross-platform custom client application for YouTube without distractions.
+>>>>>>> bd446fe3c2c2375e8dc3b6b24cbf0522d2d1853f
